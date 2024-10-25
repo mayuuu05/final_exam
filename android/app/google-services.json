@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045857258562",
+    "project_id": "final-exam-flutter-2120a",
+    "storage_bucket": "final-exam-flutter-2120a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045857258562:android:bdd895ae0de7b2ba4371db",
+        "android_client_info": {
+          "package_name": "com.example.final_exam_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPz_eA-zFV9aCrSYgB-wAiY1K-1HdIWzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
