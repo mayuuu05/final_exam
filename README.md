@@ -2,7 +2,6 @@
 
 # 📱 ContactApp
 
-[![GitHub License](https://github.com/mayuuu05/final_exam)](LICENSE)
 
 ContactApp is a sleek and powerful contact management application built with Flutter. It enables users to manage their contacts with ease, featuring local storage using SQLite, Firebase email authentication, and a robust search function to quickly locate contacts.
 
