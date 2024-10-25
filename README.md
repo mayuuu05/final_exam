@@ -20,26 +20,11 @@ ContactApp is a sleek and powerful contact management application built with Flu
 
 
 ## 🚀 Firebase Integration
-
-AppName uses Firebase for two key purposes:
-- **Email Authentication**: Secure login/registration for users.
-- **Firestore Backup**: Notes backup is seamlessly handled using Firestore, with a focus on user data privacy and security.
-
 Firebase services used:
 - **Firebase Authentication**
 - **Firebase Firestore**
 
----
 
-## 📦 Packages
-
-The app utilizes several Flutter packages to achieve its functionality:
-- **`sqflite`**: For local SQLite database.
-- **`firebase_auth`**: For Firebase email authentication.
-- **`cloud_firestore`**: For uploading and fetching notes from Firestore.
-- **`get`**: For state management.
-
----
 
 
 ## 📄 Drive Link to Demo
