@@ -42,6 +42,11 @@ The app utilizes several Flutter packages to achieve its functionality:
 ---
 
 
+## 📄 Drive Link to Demo
+
+Check out the detailed app demo here: [Google Drive Link](https://drive.google.com/file/d/1B4xmLbT5sJAF1O5NH6zhjta-ibFiew0_/view?usp=drive_link)
+
+
 
 <div align = "center">
  
@@ -70,6 +75,3 @@ The app utilizes several Flutter packages to achieve its functionality:
 
 </div>
 
-## 📄 Drive Link to Demo
-
-Check out the detailed app demo here: [Google Drive Link](https://drive.google.com/file/d/1B4xmLbT5sJAF1O5NH6zhjta-ibFiew0_/view?usp=drive_link)
